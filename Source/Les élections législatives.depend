@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600941188 source:d:\travail\informatique et réseau\logiciel algorithme\les élections législatives\les élections législatives\main.c
+	<stdio.h>
+	<stdlib.h>
+
